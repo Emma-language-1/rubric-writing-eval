@@ -1,0 +1,29 @@
+{
+  "scale": {"min": 1, "max": 9},
+  "traits": {
+    "task_response": {
+      "description": "Addresses the prompt with a clear position and sufficiently developed ideas.",
+      "low": "Only partly addresses the task or presents unsupported ideas.",
+      "mid": "Addresses the main task with a discernible position and some development.",
+      "high": "Fully addresses the task with a clear, well-developed and relevant position."
+    },
+    "organisation": {
+      "description": "Organises information logically and uses cohesion without obscuring meaning.",
+      "low": "Ideas are difficult to follow and paragraphing or links are limited.",
+      "mid": "Information is generally organised with functional paragraphing and linking.",
+      "high": "Progression is clear and cohesion supports the argument throughout."
+    },
+    "language_use": {
+      "description": "Uses vocabulary and sentence structures accurately and flexibly.",
+      "low": "Limited language control frequently reduces clarity.",
+      "mid": "Adequate range and control with errors that do not usually block meaning.",
+      "high": "Wide, precise language range with consistently strong control."
+    },
+    "evidence": {
+      "description": "Supports claims with relevant reasons, examples, or evidence.",
+      "low": "Claims are largely asserted without support.",
+      "mid": "Most main claims include relevant reasons or examples.",
+      "high": "Evidence is specific, relevant, and clearly connected to each main claim."
+    }
+  }
+}
